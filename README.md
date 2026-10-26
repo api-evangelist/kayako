@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kayako is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kayako.com/
+Kayako provides an AI‑powered help desk and customer support platform for SaaS businesses. Its solution combines ticketing, live chat, email automation, knowledge base, and shared inbox features, all enhanced with machine‑learning to route, suggest replies, and prioritize issues. Serving over 10,000 support professionals across 300+ companies, Kayako aims to reduce response times, improve CSAT, and lower support costs through intelligent automation and omnichannel experiences.
+
+**Areas:** Company · Customer Support · AI · SaaS · Help Desk
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kayako.com/)
+- [Documentation](https://support.kayako.com/)
+- [Getting started](https://help.kayako.com/category/1587-kayako-getting-started)
+- [API reference](https://developer.kayako.com/api/v1/reference/introduction/)
+- [Pricing](https://kayako.com/pricing/)
+- [Support](https://support.kayako.com)
+- [Blog](https://kayako.com/blog/)
+- [Security](https://kayako.com/security/)
+- [Terms of service](https://kayako.com/about/terms-of-use/)
+- [Privacy policy](http://www.kayako.com/about/privacy)
+- [GitHub](https://github.com/kayako)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kayako/](https://apis.io/providers/kayako/).
